@@ -1,0 +1,4 @@
+Record Time: 3.453 s
+Color: 97 frames; 28.0915 fps
+Depth: 97 frames; 28.0915 fps
+Skeleton: 97 frames; 28.0915 fps
